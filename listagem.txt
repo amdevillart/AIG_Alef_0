@@ -2,3 +2,6 @@ computador
 portatil
 telemovel
 tablet
+projetor
+rato
+monitor
