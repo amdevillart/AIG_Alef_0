@@ -4,3 +4,4 @@ telemovel
 tablet
 projetor
 rato
+monitor
